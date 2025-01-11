@@ -67,3 +67,17 @@ Käyttäjä voi syöttää PIN-koodin näppäimistöllä järjestelmän aktivoim
 Ultrasonic-anturi seuraa etäisyyttä. Kun anturi havaitsee liikkeen määritellyn etäisyyden sisällä, hälytys käynnistyy.
 
 Hälytyksen voi deaktivoida syöttämällä oikean PIN-koodin.
+
+🎥 Videoesittely
+
+Projektin toiminnallisuutta voi tarkastella mukana olevasta videoesityksestä (Video.mov).
+
+Projektin tekijät:
+
+Johanna (git: https://github.com/joqquli)
+
+Aliisa (git: https://github.com/alliliisa)
+
+Mikko (git: https://github.com/t0tumi01)
+
+Caroliina (git: https://github.com/casandrapa)
